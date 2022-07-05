@@ -1,0 +1,75 @@
+.header {
+    width: 70%;
+    margin: auto;
+    margin-top: 100px;
+    text-align: center;
+}
+input {
+    width: 30%;
+    padding: 5px 10px;
+    background-color: rgb(121, 195, 195);
+    border: none;
+    border-radius: 5px;
+}
+.btn {
+    width: 15%;
+    padding: 5px 0;
+    background-color: rgb(113, 67, 220);
+    border: 1px solid rgb(113, 67, 220);
+    border-radius: 5px;
+    margin-left: 5px;
+  }
+.addList{
+    width: 50%;
+  margin: auto;
+  margin-top: 50px;
+  text-align: center;
+}
+.items {
+    background-color: aqua;
+    border: 1px solid black;
+    margin-top: 10px;
+    border-radius: 5px;
+    color: blueviolet;
+    padding: 5px 0;
+    font-size: 18px;
+    font-weight: 600;
+    font-style: oblique;
+    display: flex;
+    justify-content: space-between;
+  }
+  .btn_item {
+    border: none;
+    padding: 5px 15px;
+    background-color: aqua;
+    cursor: pointer;
+    color: brown;
+    font-size: 20px;
+    font-weight: 600;
+  }
+  .btnItem2{
+    border: 1px solid brown;
+    border-radius: 5px;
+    padding: 5px 5px;
+    margin-left: 5px;
+    background-color: red;
+    cursor: pointer;
+    color: brown;
+    font-size: 20px;
+    font-weight: 600;
+  }
+  .btnItem1{
+    border: 1px solid yellow;
+    border-radius: 5px;
+    padding: 5px 5px;
+    margin-left: 5px;
+    background-color: greenyellow;
+    cursor: pointer;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+  }
+  /* .loader{
+    color: white;
+    font-size: 20px;
+  } */
